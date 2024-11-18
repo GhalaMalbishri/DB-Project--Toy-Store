@@ -18,9 +18,15 @@ This project is a database system designed for a toy store, created as part of t
 ## Database Diagrams
 
 ### UML Diagram
-![UML Diagram](path/to/uml-diagram.png)
+![UML Diagram](./path/to/uml-diagram.png)
 
 ### Chen's Notation
 ![Chen's Notation]()
 
 
+## Contributors
+Ghala Mohammad Albishri
+Ghadi Mohamed Almoqati
+Abeer Motier Alloqmani
+Maisa Ahmed Alzahrani
+Jana Abdulrahman Alqurashi
