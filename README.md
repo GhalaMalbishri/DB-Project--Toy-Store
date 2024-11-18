@@ -18,7 +18,7 @@ This project is a database system designed for a toy store, created as part of t
 ## Database Diagrams
 
 ### UML Diagram
-![UML Diagram](./path/to/uml-diagram.png)
+![UML Diagram]([./path/to/uml-diagram.png](https://github.com/GhalaMalbishri/DB-Project--Toy-Store/blob/main/chens-notation.png))
 
 ### Chen's Notation
 ![Chen's Notation]()
