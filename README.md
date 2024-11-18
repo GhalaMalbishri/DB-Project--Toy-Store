@@ -15,18 +15,13 @@ This project is a database system designed for a toy store, created as part of t
 3. Employees are categorized by roles: supervisors, sales, marketing, etc.
 4. Customers can place multiple orders, and each order may include multiple toys.
 
-## Database Diagrams
-
-### UML Diagram
-![UML Diagram]([./path/to/uml-diagram.png](https://github.com/GhalaMalbishri/DB-Project--Toy-Store/blob/main/chens-notation.png))
-
-### Chen's Notation
-![Chen's Notation]()
 
 
 ## Contributors
-Ghala Mohammad Albishri
-Ghadi Mohamed Almoqati
-Abeer Motier Alloqmani
-Maisa Ahmed Alzahrani
-Jana Abdulrahman Alqurashi
+-Ghala Albishri
+-Ghadi Almoqati
+-Abeer Alloqmani
+-Maisa Alzahrani
+-Jana Alqurashi
+
+### For more details about the database design and documentation, please refer to the [project report](path/to/your-file.pdf).
