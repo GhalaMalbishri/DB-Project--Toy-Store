@@ -16,17 +16,17 @@ This project is a database system designed for a toy store, created as part of t
 4. Customers can place multiple orders, and each order may include multiple toys.
 
 ### UML Diagram
-![UML Diagram](https://github.com/username/repository/blob/main/path/to/uml-diagram.png)
+![UML Diagram](https://github.com/GhalaMalbishri/DB-Project--Toy-Store/blob/main/uml-diagram.png)
 
 ### Chen's Notation
-![Chen's Notation](https://github.com/username/repository/blob/main/path/to/chens-notation.png)
+![Chen's Notation](https://github.com/GhalaMalbishri/DB-Project--Toy-Store/blob/main/chens-notation.png)
 
 
 ## Contributors
 - Ghala Albishri
--Ghadi Almoqati
--Abeer Alloqmani
--Maisa Alzahrani
--Jana Alqurashi
+- Ghadi Almoqati
+- Abeer Alloqmani
+- Maisa Alzahrani
+- Jana Alqurashi
 
 ### For more details about the database design and documentation, please refer to the [project report](https://github.com/GhalaMalbishri/DB-Project--Toy-Store/blob/main/Group5DBToyStore%20Report.pdf).
