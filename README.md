@@ -15,10 +15,15 @@ This project is a database system designed for a toy store, created as part of t
 3. Employees are categorized by roles: supervisors, sales, marketing, etc.
 4. Customers can place multiple orders, and each order may include multiple toys.
 
+### UML Diagram
+![UML Diagram](https://github.com/username/repository/blob/main/path/to/uml-diagram.png)
+
+### Chen's Notation
+![Chen's Notation](https://github.com/username/repository/blob/main/path/to/chens-notation.png)
 
 
 ## Contributors
--Ghala Albishri
+- Ghala Albishri
 -Ghadi Almoqati
 -Abeer Alloqmani
 -Maisa Alzahrani
