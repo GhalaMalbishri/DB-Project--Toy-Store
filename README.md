@@ -24,4 +24,4 @@ This project is a database system designed for a toy store, created as part of t
 -Maisa Alzahrani
 -Jana Alqurashi
 
-### For more details about the database design and documentation, please refer to the [project report](path/to/your-file.pdf).
+### For more details about the database design and documentation, please refer to the [project report](https://github.com/GhalaMalbishri/DB-Project--Toy-Store/blob/main/path/to/uml-diagram.png).
